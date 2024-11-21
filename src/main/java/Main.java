@@ -7,7 +7,7 @@ public class Main {
         store.addBook(book);
         
         store.findBook("Harry Potter");
-        System.out.println("Your book: " + store.findBook("Harry Potter");)
+        System.out.println("Your book: " + store.findBook("Harry Potter"));
 
 
     }
