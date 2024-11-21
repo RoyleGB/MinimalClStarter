@@ -43,8 +43,8 @@ class BookStoreTest {
     }
 
     // TODO: Comment this in an raise a pull request, notice how the failing build is flagged before merging the changes in
-    /* @Test
+    @Test
     void aFailingTest() {
         fail();
-    } */
+    } 
 }
